@@ -16,11 +16,9 @@
 ### 💫 About Me
 
 ```yaml
-name: Subharee Sahu
-role: [Your role here — Developer / Designer / Creator]
-currently_learning: [swap this in]
-currently_building: [swap this in]
-fun_fact: [drop something iconic here]
+ Subharee Sahu
+  Creator
+
 ```
 
 - 🔭 Currently working on **[project name]**
