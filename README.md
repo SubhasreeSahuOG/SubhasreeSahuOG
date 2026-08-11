@@ -5,7 +5,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Subharee%20Sahu&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=building%20cool%20stuff%2C%20one%20commit%20at%20a%20time&descAlignY=55&descSize=18" width="100%"/>
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-slaying-F72585?style=for-the-badge&logo=sparkles&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=subharee-sahu&style=for-the-badge&color=blueviolet" alt="profile views" />
@@ -42,9 +41,8 @@ Creator⚙️
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/YOUR-LINK"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-LINK"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.instagram.com/subhaslyf/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://twitter.com/YOUR-LINK"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 ---
