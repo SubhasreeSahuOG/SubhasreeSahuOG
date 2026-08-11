@@ -36,18 +36,7 @@ Creator⚙️
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subharee-sahu&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subharee-sahu&theme=radical&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subharee-sahu&layout=compact&theme=radical&hide_border=true" width="50%" />
-</p>
-
----
 
 ### 🌐 Let's Connect
 
