@@ -16,15 +16,13 @@
 ### 💫 About Me
 
 ```yaml
- Subharee Sahu
-  Creator
+Subharee Sahu🩷
+Creator⚙️
 
 ```
 
-- 🔭 Currently working on **[project name]**
-- 🌱 Currently exploring **[skill/tech]**
-- 💬 Ask me about **[your niche]**
-- ⚡ Fun fact: **[something that slaps]**
+- 🔭 Currently working on **😉**
+- 🌱 Currently exploring **AI**
 
 ---
 
